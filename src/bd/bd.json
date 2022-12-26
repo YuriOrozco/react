@@ -1,0 +1,19 @@
+{
+"users": [
+{
+"id":1,
+"username":"Yuri",
+"pass": "onedirection1"
+},
+{
+    "id":2,
+    "username": "Vladis",
+    "pass": "valde"  
+},
+{
+    "id":3,
+    "username": "larepangala",
+    "pass": "123"
+    }
+]
+}
